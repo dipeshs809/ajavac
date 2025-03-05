@@ -1,4 +1,4 @@
-class Test1 {
+class Test2 {
     public static void main(String[] args) {
         System.out.println(10+true); // 1 Binop error
     }
